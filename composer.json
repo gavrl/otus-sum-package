@@ -1,0 +1,16 @@
+{
+    "name": "gavrl/otus-sum-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Gavrl\\OtusSumPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SergeyGavr",
+            "email": "sergeygavr.94@yandex.ru"
+        }
+    ],
+    "require": {}
+}
