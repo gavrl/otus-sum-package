@@ -12,5 +12,7 @@
             "email": "sergeygavr.94@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    }
 }
